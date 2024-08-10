@@ -1,3 +1,3 @@
 ﻿using WDApiClient;
 
-await VehicleProcessor.ProcessVehicles();
+await Processor.ProcessData();
